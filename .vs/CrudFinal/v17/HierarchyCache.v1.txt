@@ -1,0 +1,328 @@
+﻿++Solución "CrudFinal" ‎(1 de 1 proyecto)
+i:{00000000-0000-0000-0000-000000000000}:CrudFinal.sln
+++CrudFinal.WEB
+i:{00000000-0000-0000-0000-000000000000}:CrudFinal.WEB
+++Connected Services 
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:>1035
+++Dependencias
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:>1034
+++Properties
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\users\mauricio ceballos\source\repos\crudfinal\crudfinal.web\properties\
+++wwwroot
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\users\mauricio ceballos\source\repos\crudfinal\crudfinal.web\wwwroot\
+++Controllers
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\users\mauricio ceballos\source\repos\crudfinal\crudfinal.web\controllers\
+++UsuariosController.cs
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\users\mauricio ceballos\source\repos\crudfinal\crudfinal.web\controllers\usuarioscontroller.cs
+++Migrations
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\users\mauricio ceballos\source\repos\crudfinal\crudfinal.web\migrations\
+++20220404235124_primero.cs
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\users\mauricio ceballos\source\repos\crudfinal\crudfinal.web\migrations\20220404235124_primero.cs
+++20220404235124_primero.Designer.cs
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\users\mauricio ceballos\source\repos\crudfinal\crudfinal.web\migrations\20220404235124_primero.designer.cs
+++AppDbContextModelSnapshot.cs
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\users\mauricio ceballos\source\repos\crudfinal\crudfinal.web\migrations\appdbcontextmodelsnapshot.cs
+++Models
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\users\mauricio ceballos\source\repos\crudfinal\crudfinal.web\models\
+++Abstract
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\users\mauricio ceballos\source\repos\crudfinal\crudfinal.web\models\abstract\
+++Business
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\users\mauricio ceballos\source\repos\crudfinal\crudfinal.web\models\business\
+++DAL
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\users\mauricio ceballos\source\repos\crudfinal\crudfinal.web\models\dal\
+++Entities
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\users\mauricio ceballos\source\repos\crudfinal\crudfinal.web\models\entities\
+++Usuario.cs
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\users\mauricio ceballos\source\repos\crudfinal\crudfinal.web\models\entities\usuario.cs
+++ErrorViewModel.cs
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\users\mauricio ceballos\source\repos\crudfinal\crudfinal.web\models\errorviewmodel.cs
+++Views
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\users\mauricio ceballos\source\repos\crudfinal\crudfinal.web\views\
+++Shared
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\users\mauricio ceballos\source\repos\crudfinal\crudfinal.web\views\shared\
+++Usuarios
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\users\mauricio ceballos\source\repos\crudfinal\crudfinal.web\views\usuarios\
+++Create.cshtml
+++Delete.cshtml
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\users\mauricio ceballos\source\repos\crudfinal\crudfinal.web\views\usuarios\delete.cshtml
+++Details.cshtml
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\users\mauricio ceballos\source\repos\crudfinal\crudfinal.web\views\usuarios\details.cshtml
+++Edit.cshtml
+++Index.cshtml
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\users\mauricio ceballos\source\repos\crudfinal\crudfinal.web\views\usuarios\index.cshtml
+++_ViewImports.cshtml
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\users\mauricio ceballos\source\repos\crudfinal\crudfinal.web\views\_viewimports.cshtml
+++_ViewStart.cshtml
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\users\mauricio ceballos\source\repos\crudfinal\crudfinal.web\views\_viewstart.cshtml
+++appsettings.json
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\users\mauricio ceballos\source\repos\crudfinal\crudfinal.web\appsettings.json
+++appsettings.Development.json
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\users\mauricio ceballos\source\repos\crudfinal\crudfinal.web\appsettings.development.json
+++libman.json
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\users\mauricio ceballos\source\repos\crudfinal\crudfinal.web\libman.json
+++Program.cs
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\users\mauricio ceballos\source\repos\crudfinal\crudfinal.web\program.cs
+++Startup.cs
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\users\mauricio ceballos\source\repos\crudfinal\crudfinal.web\startup.cs
+++No se detectaron dependencias de servicio
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:>1036
+++Analizadores
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:analizadores
+++Marcos de trabajo
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:marcos de trabajo
+++Paquetes
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:paquetes
+++launchSettings.json
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\users\mauricio ceballos\source\repos\crudfinal\crudfinal.web\properties\launchsettings.json
+++css
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\users\mauricio ceballos\source\repos\crudfinal\crudfinal.web\wwwroot\css\
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\users\mauricio ceballos\source\repos\crudfinal\crudfinal.web\wwwroot\lib\font-awesome\css\
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\users\mauricio ceballos\source\repos\crudfinal\crudfinal.web\wwwroot\lib\bootstrap\dist\css\
+++js
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\users\mauricio ceballos\source\repos\crudfinal\crudfinal.web\wwwroot\js\
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\users\mauricio ceballos\source\repos\crudfinal\crudfinal.web\wwwroot\lib\font-awesome\js\
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\users\mauricio ceballos\source\repos\crudfinal\crudfinal.web\wwwroot\lib\bootstrap\dist\js\
+++lib
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\users\mauricio ceballos\source\repos\crudfinal\crudfinal.web\wwwroot\lib\
+++favicon.ico
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\users\mauricio ceballos\source\repos\crudfinal\crudfinal.web\wwwroot\favicon.ico
+++AppDbContext.cs
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\users\mauricio ceballos\source\repos\crudfinal\crudfinal.web\models\dal\appdbcontext.cs
+++_Layout.cshtml
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\users\mauricio ceballos\source\repos\crudfinal\crudfinal.web\views\shared\_layout.cshtml
+++_ValidationScriptsPartial.cshtml
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\users\mauricio ceballos\source\repos\crudfinal\crudfinal.web\views\shared\_validationscriptspartial.cshtml
+++Error.cshtml
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\users\mauricio ceballos\source\repos\crudfinal\crudfinal.web\views\shared\error.cshtml
+++Microsoft.AspNetCore.Analyzers
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.CodeAnalysis.Analyzers
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\users\mauricio ceballos\.nuget\packages\microsoft.codeanalysis.analyzers\3.0.0\analyzers\dotnet\cs\microsoft.codeanalysis.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.Analyzers
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\users\mauricio ceballos\.nuget\packages\microsoft.codeanalysis.analyzers\3.0.0\analyzers\dotnet\cs\microsoft.codeanalysis.csharp.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\users\mauricio ceballos\.nuget\packages\microsoft.entityframeworkcore.analyzers\5.0.15\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.AspNetCore.App
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\users\mauricio ceballos\source\repos\crudfinal\crudfinal.web\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\users\mauricio ceballos\source\repos\crudfinal\crudfinal.web\microsoft.netcore.app
+++Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation (5.0.15)
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:>1047
+++Microsoft.EntityFrameworkCore.SqlServer (5.0.15)
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:>1048
+++Microsoft.EntityFrameworkCore.Tools (5.0.15)
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:>1168
+++Microsoft.VisualStudio.Web.CodeGeneration.Design (5.0.2)
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:>1070
+++site.css
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\users\mauricio ceballos\source\repos\crudfinal\crudfinal.web\wwwroot\css\site.css
+++site.js
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\users\mauricio ceballos\source\repos\crudfinal\crudfinal.web\wwwroot\js\site.js
+++bootstrap
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\users\mauricio ceballos\source\repos\crudfinal\crudfinal.web\wwwroot\lib\bootstrap\
+++font-awesome
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\users\mauricio ceballos\source\repos\crudfinal\crudfinal.web\wwwroot\lib\font-awesome\
+++jquery
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\users\mauricio ceballos\source\repos\crudfinal\crudfinal.web\wwwroot\lib\jquery\
+++jquery-validation
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\users\mauricio ceballos\source\repos\crudfinal\crudfinal.web\wwwroot\lib\jquery-validation\
+++jquery-validation-unobtrusive
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\users\mauricio ceballos\source\repos\crudfinal\crudfinal.web\wwwroot\lib\jquery-validation-unobtrusive\
+++dist
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\users\mauricio ceballos\source\repos\crudfinal\crudfinal.web\wwwroot\lib\bootstrap\dist\
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\users\mauricio ceballos\source\repos\crudfinal\crudfinal.web\wwwroot\lib\jquery\dist\
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\users\mauricio ceballos\source\repos\crudfinal\crudfinal.web\wwwroot\lib\jquery-validation\dist\
+++LICENSE
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\users\mauricio ceballos\source\repos\crudfinal\crudfinal.web\wwwroot\lib\bootstrap\license
+++sprites
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\users\mauricio ceballos\source\repos\crudfinal\crudfinal.web\wwwroot\lib\font-awesome\sprites\
+++webfonts
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\users\mauricio ceballos\source\repos\crudfinal\crudfinal.web\wwwroot\lib\font-awesome\webfonts\
+++LICENSE.txt
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\users\mauricio ceballos\source\repos\crudfinal\crudfinal.web\wwwroot\lib\jquery\license.txt
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\users\mauricio ceballos\source\repos\crudfinal\crudfinal.web\wwwroot\lib\jquery-validation-unobtrusive\license.txt
+++LICENSE.md
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\users\mauricio ceballos\source\repos\crudfinal\crudfinal.web\wwwroot\lib\jquery-validation\license.md
+++jquery.validate.unobtrusive.js
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\users\mauricio ceballos\source\repos\crudfinal\crudfinal.web\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+++all.css
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\users\mauricio ceballos\source\repos\crudfinal\crudfinal.web\wwwroot\lib\font-awesome\css\all.css
+++brands.css
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\users\mauricio ceballos\source\repos\crudfinal\crudfinal.web\wwwroot\lib\font-awesome\css\brands.css
+++fontawesome.css
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\users\mauricio ceballos\source\repos\crudfinal\crudfinal.web\wwwroot\lib\font-awesome\css\fontawesome.css
+++regular.css
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\users\mauricio ceballos\source\repos\crudfinal\crudfinal.web\wwwroot\lib\font-awesome\css\regular.css
+++solid.css
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\users\mauricio ceballos\source\repos\crudfinal\crudfinal.web\wwwroot\lib\font-awesome\css\solid.css
+++svg-with-js.css
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\users\mauricio ceballos\source\repos\crudfinal\crudfinal.web\wwwroot\lib\font-awesome\css\svg-with-js.css
+++v4-font-face.css
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\users\mauricio ceballos\source\repos\crudfinal\crudfinal.web\wwwroot\lib\font-awesome\css\v4-font-face.css
+++v4-shims.css
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\users\mauricio ceballos\source\repos\crudfinal\crudfinal.web\wwwroot\lib\font-awesome\css\v4-shims.css
+++v5-font-face.css
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\users\mauricio ceballos\source\repos\crudfinal\crudfinal.web\wwwroot\lib\font-awesome\css\v5-font-face.css
+++all.js
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\users\mauricio ceballos\source\repos\crudfinal\crudfinal.web\wwwroot\lib\font-awesome\js\all.js
+++brands.js
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\users\mauricio ceballos\source\repos\crudfinal\crudfinal.web\wwwroot\lib\font-awesome\js\brands.js
+++conflict-detection.js
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\users\mauricio ceballos\source\repos\crudfinal\crudfinal.web\wwwroot\lib\font-awesome\js\conflict-detection.js
+++fontawesome.js
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\users\mauricio ceballos\source\repos\crudfinal\crudfinal.web\wwwroot\lib\font-awesome\js\fontawesome.js
+++regular.js
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\users\mauricio ceballos\source\repos\crudfinal\crudfinal.web\wwwroot\lib\font-awesome\js\regular.js
+++solid.js
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\users\mauricio ceballos\source\repos\crudfinal\crudfinal.web\wwwroot\lib\font-awesome\js\solid.js
+++v4-shims.js
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\users\mauricio ceballos\source\repos\crudfinal\crudfinal.web\wwwroot\lib\font-awesome\js\v4-shims.js
+++brands.svg
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\users\mauricio ceballos\source\repos\crudfinal\crudfinal.web\wwwroot\lib\font-awesome\sprites\brands.svg
+++regular.svg
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\users\mauricio ceballos\source\repos\crudfinal\crudfinal.web\wwwroot\lib\font-awesome\sprites\regular.svg
+++solid.svg
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\users\mauricio ceballos\source\repos\crudfinal\crudfinal.web\wwwroot\lib\font-awesome\sprites\solid.svg
+++fa-brands-400.ttf
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\users\mauricio ceballos\source\repos\crudfinal\crudfinal.web\wwwroot\lib\font-awesome\webfonts\fa-brands-400.ttf
+++fa-brands-400.woff2
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\users\mauricio ceballos\source\repos\crudfinal\crudfinal.web\wwwroot\lib\font-awesome\webfonts\fa-brands-400.woff2
+++fa-regular-400.ttf
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\users\mauricio ceballos\source\repos\crudfinal\crudfinal.web\wwwroot\lib\font-awesome\webfonts\fa-regular-400.ttf
+++fa-regular-400.woff2
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\users\mauricio ceballos\source\repos\crudfinal\crudfinal.web\wwwroot\lib\font-awesome\webfonts\fa-regular-400.woff2
+++fa-solid-900.ttf
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\users\mauricio ceballos\source\repos\crudfinal\crudfinal.web\wwwroot\lib\font-awesome\webfonts\fa-solid-900.ttf
+++fa-solid-900.woff2
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\users\mauricio ceballos\source\repos\crudfinal\crudfinal.web\wwwroot\lib\font-awesome\webfonts\fa-solid-900.woff2
+++fa-v4compatibility.ttf
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\users\mauricio ceballos\source\repos\crudfinal\crudfinal.web\wwwroot\lib\font-awesome\webfonts\fa-v4compatibility.ttf
+++fa-v4compatibility.woff2
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\users\mauricio ceballos\source\repos\crudfinal\crudfinal.web\wwwroot\lib\font-awesome\webfonts\fa-v4compatibility.woff2
+++jquery.js
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\users\mauricio ceballos\source\repos\crudfinal\crudfinal.web\wwwroot\lib\jquery\dist\jquery.js
+++additional-methods.js
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\users\mauricio ceballos\source\repos\crudfinal\crudfinal.web\wwwroot\lib\jquery-validation\dist\additional-methods.js
+++jquery.validate.js
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\users\mauricio ceballos\source\repos\crudfinal\crudfinal.web\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+++jquery.validate.unobtrusive.min.js
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\users\mauricio ceballos\source\repos\crudfinal\crudfinal.web\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+++bootstrap.css
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\users\mauricio ceballos\source\repos\crudfinal\crudfinal.web\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+++bootstrap-grid.css
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\users\mauricio ceballos\source\repos\crudfinal\crudfinal.web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+++bootstrap-reboot.css
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\users\mauricio ceballos\source\repos\crudfinal\crudfinal.web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+++bootstrap.js
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\users\mauricio ceballos\source\repos\crudfinal\crudfinal.web\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+++all.min.css
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\users\mauricio ceballos\source\repos\crudfinal\crudfinal.web\wwwroot\lib\font-awesome\css\all.min.css
+++brands.min.css
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\users\mauricio ceballos\source\repos\crudfinal\crudfinal.web\wwwroot\lib\font-awesome\css\brands.min.css
+++fontawesome.min.css
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\users\mauricio ceballos\source\repos\crudfinal\crudfinal.web\wwwroot\lib\font-awesome\css\fontawesome.min.css
+++regular.min.css
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\users\mauricio ceballos\source\repos\crudfinal\crudfinal.web\wwwroot\lib\font-awesome\css\regular.min.css
+++solid.min.css
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\users\mauricio ceballos\source\repos\crudfinal\crudfinal.web\wwwroot\lib\font-awesome\css\solid.min.css
+++svg-with-js.min.css
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\users\mauricio ceballos\source\repos\crudfinal\crudfinal.web\wwwroot\lib\font-awesome\css\svg-with-js.min.css
+++v4-font-face.min.css
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\users\mauricio ceballos\source\repos\crudfinal\crudfinal.web\wwwroot\lib\font-awesome\css\v4-font-face.min.css
+++v4-shims.min.css
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\users\mauricio ceballos\source\repos\crudfinal\crudfinal.web\wwwroot\lib\font-awesome\css\v4-shims.min.css
+++v5-font-face.min.css
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\users\mauricio ceballos\source\repos\crudfinal\crudfinal.web\wwwroot\lib\font-awesome\css\v5-font-face.min.css
+++all.min.js
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\users\mauricio ceballos\source\repos\crudfinal\crudfinal.web\wwwroot\lib\font-awesome\js\all.min.js
+++brands.min.js
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\users\mauricio ceballos\source\repos\crudfinal\crudfinal.web\wwwroot\lib\font-awesome\js\brands.min.js
+++conflict-detection.min.js
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\users\mauricio ceballos\source\repos\crudfinal\crudfinal.web\wwwroot\lib\font-awesome\js\conflict-detection.min.js
+++fontawesome.min.js
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\users\mauricio ceballos\source\repos\crudfinal\crudfinal.web\wwwroot\lib\font-awesome\js\fontawesome.min.js
+++regular.min.js
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\users\mauricio ceballos\source\repos\crudfinal\crudfinal.web\wwwroot\lib\font-awesome\js\regular.min.js
+++solid.min.js
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\users\mauricio ceballos\source\repos\crudfinal\crudfinal.web\wwwroot\lib\font-awesome\js\solid.min.js
+++v4-shims.min.js
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\users\mauricio ceballos\source\repos\crudfinal\crudfinal.web\wwwroot\lib\font-awesome\js\v4-shims.min.js
+++jquery.min.js
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\users\mauricio ceballos\source\repos\crudfinal\crudfinal.web\wwwroot\lib\jquery\dist\jquery.min.js
+++additional-methods.min.js
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\users\mauricio ceballos\source\repos\crudfinal\crudfinal.web\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+++jquery.validate.min.js
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\users\mauricio ceballos\source\repos\crudfinal\crudfinal.web\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+++bootstrap.css.map
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\users\mauricio ceballos\source\repos\crudfinal\crudfinal.web\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+++bootstrap.min.css
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\users\mauricio ceballos\source\repos\crudfinal\crudfinal.web\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+++bootstrap-grid.css.map
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\users\mauricio ceballos\source\repos\crudfinal\crudfinal.web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+++bootstrap-grid.min.css
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\users\mauricio ceballos\source\repos\crudfinal\crudfinal.web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+++bootstrap-reboot.css.map
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\users\mauricio ceballos\source\repos\crudfinal\crudfinal.web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+++bootstrap-reboot.min.css
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\users\mauricio ceballos\source\repos\crudfinal\crudfinal.web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+++bootstrap.bundle.js
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\users\mauricio ceballos\source\repos\crudfinal\crudfinal.web\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+++bootstrap.js.map
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\users\mauricio ceballos\source\repos\crudfinal\crudfinal.web\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+++bootstrap.min.js
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\users\mauricio ceballos\source\repos\crudfinal\crudfinal.web\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+++jquery.min.map
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\users\mauricio ceballos\source\repos\crudfinal\crudfinal.web\wwwroot\lib\jquery\dist\jquery.min.map
+++bootstrap.min.css.map
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\users\mauricio ceballos\source\repos\crudfinal\crudfinal.web\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+++bootstrap-grid.min.css.map
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\users\mauricio ceballos\source\repos\crudfinal\crudfinal.web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+++bootstrap-reboot.min.css.map
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\users\mauricio ceballos\source\repos\crudfinal\crudfinal.web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+++bootstrap.bundle.js.map
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\users\mauricio ceballos\source\repos\crudfinal\crudfinal.web\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+++bootstrap.bundle.min.js
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\users\mauricio ceballos\source\repos\crudfinal\crudfinal.web\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+++bootstrap.min.js.map
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\users\mauricio ceballos\source\repos\crudfinal\crudfinal.web\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+++bootstrap.bundle.min.js.map
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\users\mauricio ceballos\source\repos\crudfinal\crudfinal.web\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+++Crear.cshtml
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\users\mauricio ceballos\source\repos\crudfinal\crudfinal.web\views\usuarios\crear.cshtml
+++RolUsuario.cs
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\users\mauricio ceballos\source\repos\crudfinal\crudfinal.web\models\entities\rolusuario.cs
+++20220405002225_se agrega RolUsuario.cs
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\users\mauricio ceballos\source\repos\crudfinal\crudfinal.web\migrations\20220405002225_se agrega rolusuario.cs
+++20220405002225_se agrega RolUsuario.Designer.cs
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\users\mauricio ceballos\source\repos\crudfinal\crudfinal.web\migrations\20220405002225_se agrega rolusuario.designer.cs
+++NewFolder
+++Clases
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\users\mauricio ceballos\source\repos\crudfinal\crudfinal.web\clases\
+++UsuarioDTO.cs
+++UsuarioDto.cs
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\users\mauricio ceballos\source\repos\crudfinal\crudfinal.web\clases\usuariodto.cs
+++UsuarioBusiness.cs
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\users\mauricio ceballos\source\repos\crudfinal\crudfinal.web\models\business\usuariobusiness.cs
+++IUsuarioBusiness.cs
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\users\mauricio ceballos\source\repos\crudfinal\crudfinal.web\models\abstract\iusuariobusiness.cs
+++UsuarioGuardarDto.cs
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\users\mauricio ceballos\source\repos\crudfinal\crudfinal.web\clases\usuarioguardardto.cs
+++Editar.cshtml
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\users\mauricio ceballos\source\repos\crudfinal\crudfinal.web\views\usuarios\editar.cshtml
+++CargoBusiness.cs
+++Class.cs
+++CargoDto.cs
+++RolDto.cs
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\users\mauricio ceballos\source\repos\crudfinal\crudfinal.web\clases\roldto.cs
+++RolBusiness.cs
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\users\mauricio ceballos\source\repos\crudfinal\crudfinal.web\models\business\rolbusiness.cs
+++IRolBusiness.cs
+i:{58314e46-fe7a-494f-996c-fe2faad03193}:c:\users\mauricio ceballos\source\repos\crudfinal\crudfinal.web\models\abstract\irolbusiness.cs

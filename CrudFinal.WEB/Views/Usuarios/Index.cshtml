@@ -1,0 +1,63 @@
+﻿@model IEnumerable<CrudFinal.WEB.Clases.UsuarioDto>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Usuarios</h1>
+
+<table class="table table-hover">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Nombre)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Documento)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Rol)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Telefono)
+            </th>
+            <th>
+                <a asp-action="Crear" class="btn btn-outline-success"><i class="fa-solid fa-wand-magic-sparkles"></i> Crear Usuario</a>
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Nombre)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Documento)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Rol)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Telefono)
+                </td>
+                <td>
+                    <form method="post" asp-action="Eliminar" asp-route-id="@item.IdUsuario" >  
+                    <a asp-action="Editar" asp-route-id="@item.IdUsuario"><i class="fa-regular fa-pen-to-square" ></i>Editar</a> |
+                    <a asp-action="Detalle" asp-route-id="@item.IdUsuario"><i class="fa-regular fa-file"></i>Detalle</a> |
+                    <button type="submit" class="text-danger m1-1" onclick="return confirm ('¿Deseas eliminar a este usuario?')"><i class="fa-solid fa-ban"></i>Eliminar</button>
+                    
+                    </form>
+
+
+                </td>
+            </tr>
+        }
+
+    </tbody>
+</table>
+
+
+
+

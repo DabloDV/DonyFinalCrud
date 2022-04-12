@@ -1,0 +1,4 @@
+﻿Swal.fire({
+
+    title: "Hola"
+})
